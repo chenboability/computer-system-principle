@@ -1,6 +1,6 @@
 # review
 
-##小结
+## 小结
 
 本文提出了一种新的操作系统组织架构方案——“Nested Kernel”，将同一级ring0硬件权限划分成nested kernel和outer kernel两个区域，同时还定义了一些内核写保护机制用于保障系统的安全性。
 
